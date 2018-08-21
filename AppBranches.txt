@@ -1,8 +1,9 @@
-Programs and Definitions
+Programs, Definitions and Tech
 C#
 JavaScript
 SQL
 jQuery
 Web Site
 Definitions
+Tech
 Will incorperate other programming languages
