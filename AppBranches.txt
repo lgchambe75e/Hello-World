@@ -1,6 +1,8 @@
+Programs and Definitions
 C#
 JavaScript
 SQL
 jQuery
 Web Site
+Definitions
 Will incorperate other programming languages
