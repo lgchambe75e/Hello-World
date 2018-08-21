@@ -1,5 +1,6 @@
 C#
 JavaScript
 SQL
+jQuery
 Web Site
 Will incorperate other programming languages
